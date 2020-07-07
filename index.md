@@ -2,10 +2,11 @@
 layout: frontpage
 title: Jordy Van Landeghem
 description: Jordy Van Landeghem is a CS PhD candidate at Catholic University Leuven. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+keywords: Predictive Uncertainty, Text Classification, Unsupervised Novelty Detection, Monte Carlo Dropout
 ---
 
-Jordy Van Landeghem is a CS PhD candidate at Catholic University Leuven. His research interests include uncertainty in Deep Learning, Document Classification etc.
+Jordy Van Landeghem is a CS PhD candidate at Catholic University Leuven. His research interests include uncertainty in Deep Learning, Document Classification, Named Entity Recognition.
+Demonstrated track record of academic and industrial prowess and articulate enthusiast of cutting-edge Language Technology. Applied end-to-end AI engineering in the context of various application domains, e.g. finance, banking, insurance, legal. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -32,9 +33,9 @@ Jordy Van Landeghem is a CS PhD candidate at Catholic University Leuven. His res
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">Resumé</a></li>
+          <li><a href="https://github.com/jordy-vl">GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/jordy-van-landeghem-3b1166b3/">LinkedIn</a></li>
       </ul>
   </div>
 </div>

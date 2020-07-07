@@ -7,15 +7,15 @@ highlighter: rouge
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
+theme: jekyll-theme-cayman
 #
-title : Blue Ham
+title : Jordy Van Landeghem
 author :
-  name : Marisa Carlos
-  email : mbc96@cornell.edu
-  github : mbcarlos
-  twitter : MarisaBriCarlos
+  name : Jordy Van Landeghem
+  email : jordy@contract.fit
+  github : Jordy-VL
 
-production_url : http://marisabriana.github.io
+production_url : http://jordy-vl.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
