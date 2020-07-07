@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+---
+layout: frontpage
+title: Jordy Van Landeghem
+description: Jordy Van Landeghem is a CS PhD candidate at Catholic University Leuven. 
+keywords: Blue, Ham, treats, recycling, mail, being a good boy
+---
 
-You can use the [editor on GitHub](https://github.com/Jordy-VL/jordy-vl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Jordy Van Landeghem is a CS PhD candidate at Catholic University Leuven. His research interests include uncertainty in Deep Learning, Document Classification etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
 
-# Header 1
-## Header 2
-### Header 3
+    <div class="row-fluid">
+        <div class="span5">
+            Jordy Van Landeghem<br/>
+            Email: jordy@contract.fit<br/>
+        </div>
 
-- Bulleted
-- List
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Jordy Van Landeghem" alt="Jordy Van Landeghem"/></a>
+        </div>
+    </div>
+</div>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jordy-VL/jordy-vl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
+          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+      </ul>
+  </div>
+</div>
