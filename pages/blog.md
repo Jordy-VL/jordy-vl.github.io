@@ -1,3 +1,9 @@
+---
+layout: page
+title: Blog
+description: Jordy Van Landeghem's blog space
+---
+
 # Blog
 
 Idea for reviewing Intelligent Automation
