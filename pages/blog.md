@@ -4,9 +4,14 @@ title: Blog
 description: Jordy Van Landeghem's blog space
 ---
 
-# Blog
+# Intelligent Automation
+
+ ## 14-12-2020
+
 
 Idea for reviewing Intelligent Automation
+
+"swapping two vowels has never been as impactful"
 
 1. General
 2. Chapter by Chapter
