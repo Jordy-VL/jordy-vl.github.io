@@ -13,7 +13,7 @@ description: Jordy Van Landeghem's blog space
 # Intelligent Automation
 **14-12-2020**
 
-<img src="../assets/IA-cover.jpg" width="200" height="200">
+<img src="../assets/IA-cover.jpg" width="400" height="400" class="center">
 
 
 > "AI for IA: Swapping two vowels has never been as impactful" - Jordy
