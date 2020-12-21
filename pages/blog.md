@@ -13,11 +13,13 @@ description: Jordy Van Landeghem's blog space
 # Intelligent Automation
 **14-12-2020**
 
-![INTELLIGENT AUTOMATION: Learn how to harness Artificial Intelligence to boost business and make our world more human](../assets/IA-cover.jpg)
+<img src="../assets/IA-cover.jpg" width="200" height="200">
 
-> "swapping two vowels has never been as impactful" - Jordy
+
+> "AI for IA: Swapping two vowels has never been as impactful" - Jordy
 
 Meta: https://bookriot.com/how-to-write-a-book-review/
+INTELLIGENT AUTOMATION: Learn how to harness Artificial Intelligence to boost business and make our world more human
 
 
 Idea for reviewing Intelligent Automation
