@@ -4,6 +4,13 @@ title: Research
 description: Jordy Van Landeghem's research
 ---
 
+#### <u>Benchmarking Scalable Predictive Uncertainty in Text Classification.</u>
+**Jordy Van Landeghem, Matthew Blaschko, Bertrand Anckaert and Marie-Francine Moens. To be submitted**
+*This paper takes a position on the under-explored question of how predictive uncertainty methods perform in practice in Natural Language Processing, specifically multi-class and multi-label text classification. 
+We conduct benchmarking experiments with 1-D convolutional neural networks and pre-trained transformers on six real-world text classification datasets in which we empirically investigate why popular scalable uncertainty estimation strategies (Monte-Carlo Dropout, Deep Ensemble) and notable extensions (Heteroscedastic, Concrete Dropout) underestimate uncertainty. We motivate complementary uncertainty estimation benefits from combining posterior approximation procedures, linking it to recent research on how ensembles and variational Bayesian methods navigate the loss landscape.
+We find that our proposed method combination of Deep Ensemble with Concrete Dropout, by analysis of in-domain calibration, cross-domain classification, and novel class robustness, demonstrates superior performance, even at a smaller ensemble size. Our results corroborate the importance of fine-tuning dropout rate to the text classification task at hand, which individually and as an ensemble impacts model robustness. We observe in ablation that pretrained transformers severely underperform in novelty detection, limiting the applicability of transfer learning under the expectation of distribution shift from novel classes.*
+
+[[PDF](), [BibTeX]()]
 
 #### <u>Predictive Uncertainty for Probabilistic Novelty Detection in Text Classification.</u>
 **Jordy Van Landeghem, Matthew Blaschko, Bertrand Anckaert and Marie-Francine Moens. ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning**
