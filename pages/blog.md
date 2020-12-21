@@ -41,7 +41,8 @@ My two cents
 
 Not sure if we should promote Mark Twain in these recent times, but still he shares one outright idea with Intelligent Automation: 
 
-“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” – Mark Twain
+> “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” – Mark Twain
+
 Mistakes during automation! 
 False positives are the true enemy
 
