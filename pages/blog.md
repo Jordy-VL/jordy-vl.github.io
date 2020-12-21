@@ -17,6 +17,8 @@ description: Jordy Van Landeghem's blog space
 
 > "swapping two vowels has never been as impactful" - Jordy
 
+Meta: https://bookriot.com/how-to-write-a-book-review/
+
 
 Idea for reviewing Intelligent Automation
 
