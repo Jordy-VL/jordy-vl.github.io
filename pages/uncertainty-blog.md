@@ -9,20 +9,11 @@ description: Jordy Van Landeghem's research
 Uncertainty Methods
 ===================
 
-First, we formally present how uncertainty is quantified in Deep Learning with an
-introduction to Bayesian modeling.
-Subsection [1.2](#section:preduquant){reference-type="ref"
-reference="section:preduquant"} treats predictive uncertainty methods
-with a focus on the algorithmic procedure, followed by representative
-method extensions for more reliable uncertainty estimation. Subsection
-[1.3](#section:uquant){reference-type="ref" reference="section:uquant"}
-is devoted to uncertainty estimation: from what sources uncertainty
-originates, how to categorize different uncertainty measures, and how to
-quantify uncertainty at test-time with the methods from Subsection
-[1.2](#section:preduquant){reference-type="ref"
-reference="section:preduquant"}.
+First, we formally present in Subsection [1](#section:background) how uncertainty is quantified in Deep Learning with an introduction to Bayesian modeling.
+Subsection [2](#section:preduquant) treats predictive uncertainty methods with a focus on the algorithmic procedure, followed by representative method extensions for more reliable uncertainty estimation. Subsection [3](#section:uquant) is devoted to uncertainty estimation: from what sources uncertainty originates, how to categorize different uncertainty measures, and how to quantify uncertainty at test-time with the methods from the previous Subsection.
 
-Quantifying Uncertainty in Deep Learning
+
+Quantifying Uncertainty in Deep Learning {#section:background}
 ----------------------------------------
 
 In modern Deep Learning, two common uncertainty (or inversely
