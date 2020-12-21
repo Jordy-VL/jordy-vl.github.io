@@ -4,7 +4,7 @@ title: Blog
 description: Jordy Van Landeghem's blog space
 ---
 
-<a href="uncertainty-blog/">Uncertainty in Deep Learning: enter reverend Bayes</a>
+<a href="uncertainty-blog.md/">Uncertainty in Deep Learning: enter reverend Bayes</a>
 
 
 # Intelligent Automation
