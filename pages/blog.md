@@ -7,7 +7,7 @@ description: Jordy Van Landeghem's blog space
 # Uncertainty in Deep Learning
 **25-12-2020**
 
-<a href="uncertainty-blog.md/">Uncertainty in Deep Learning: enter reverend Bayes</a>
+<a href="uncertainty-blog.html/">Uncertainty in Deep Learning: enter reverend Bayes</a>
 
 
 # Intelligent Automation
