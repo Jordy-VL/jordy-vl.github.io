@@ -34,7 +34,7 @@ number of parameters. The Bayesian approach consists of casting learning
 and prediction as an inference task about hypotheses (uncertain
 quantities, with $\theta$ representing all BNN parameters: weights $w$,
 biases $b$, and model structure) from data (measurable quantities,
-$\mathcal{D}=\left\{\left(\mathbf{x}^{(n)}, y^{(n)}\right)\right\}_{n=1}^{N}=(\mathbf{X}, \mathbf{Y})$
+$$\mathcal{D}=\left\{\left(\mathbf{x}^{(n)}, y^{(n)}\right)\right\}_{n=1}^{N}=(\mathbf{X}, \mathbf{Y})$$
 ). Drawing on the ground-laying works of @denker1987large
 [@mackay1992bayesian; @neal1992bayesian; @hinton1993keeping], the
 "second-generation\" in BDL [@ghahramani2016history] is geared towards
