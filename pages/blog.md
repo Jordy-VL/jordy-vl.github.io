@@ -4,16 +4,12 @@ title: Blog
 description: Jordy Van Landeghem's blog space
 ---
 
----
-bibliography:
-- 'main.bib'
----
 
-Uncertainty Methods {#background}
+
+Uncertainty Methods
 ===================
 
-This Section is organized as follows: the first Subsection formally
-presents how uncertainty is quantified in Deep Learning with an
+First, we formally present how uncertainty is quantified in Deep Learning with an
 introduction to Bayesian modeling.
 Subsection [1.2](#section:preduquant){reference-type="ref"
 reference="section:preduquant"} treats predictive uncertainty methods
@@ -62,9 +58,9 @@ $$P(\theta \mid \mathcal{D}, m)= \frac{P(\mathcal{D} \mid \theta, m) P(\theta \m
 & \quad \displaystyle P(\theta \mid m) & \scriptstyle \text{prior probability of } \theta \\
 & \quad \displaystyle P(\theta \mid \mathcal{D}, m) & \scriptstyle \text{posterior of } \theta \scriptstyle \text{ given data } \mathcal{D}
 \end{aligned}
-\label{eq:intractable-posterior}$$ Generating a prediction for a new
-test input $x^{*}$ requires computing the conditional probability of
-$x^{*}$ given the data and model.
+\label{eq:intractable-posterior}$$ 
+
+Generating a prediction for a new test input $x^{*}$ requires computing the conditional probability of $x^{*}$ given the data and model.
 $$P(x^{*}\mid\mathcal{D}, m) = \int P(x^{*}\mid\mathcal{D},\theta,m) \underbrace{P(\theta \mid \mathcal{D}, m)}_{posterior}  d\theta$$
 To compute the *predictive distribution*, again the posterior
 distribution is required, whose integral via marginalization over the
