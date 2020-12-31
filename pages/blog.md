@@ -12,7 +12,8 @@ Intelligent Automation
 ======================
 
 **31-12-2020**
-Alternate reading view (mobile friendly)
+
+[Alternate reading view](https://sway.office.com/LpqRP7HcqzmraDfi?ref=Link) (mobile friendly)
 
 Holding a promise
 -----------------
