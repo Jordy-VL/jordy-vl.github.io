@@ -20,13 +20,13 @@ Two months ago I posted the [following
 message](https://www.linkedin.com/posts/jordy-van-landeghem-3b1166b3_since-half-of-my-phd-project-intelligent-activity-6727681423198818304-_cVI)
 on LinkedIn:
 
-![](media/image1.png){width="3.9493055555555556in"
+![](../assets/IAblog/image1.png){width="3.9493055555555556in"
 height="5.3493055555555555in"}
 
 To my surprise, the original authors responded and this post got around
 10K views.
 
-![](media/image2.png){width="2.6666666666666665in"
+![](../assets/IAblog/image2.png){width="2.6666666666666665in"
 height="2.0965277777777778in"}Now two months later, I have finally
 finished reading this book, with interleaved reading & writing of plenty
 academic research papers, which explains my tardiness.\
@@ -189,7 +189,7 @@ people. This chapter reminds us that IA transformations should be
 people-centric, with mindfulness about how it will affect the future of
 work. What I am very happy about is that the book ends with this hopeful
 note, instead of lingering too much on the dangerous side of AI and IA,
-which too often gets picked up in the media. It nicely wraps up the
+which too often gets picked up in the ../assets/IAblog. It nicely wraps up the
 promise of IA that was started in Part 1 with a look towards the future.
 
 ### Bonus: IA use cases library 
@@ -219,7 +219,7 @@ health monitoring and even real-time drug dispensing (V, T&L, E). The
 below prototype by Stanford University medical school can give you an
 idea 😉
 
-![](media/image3.png){width="4.5in" height="3.5166666666666666in"}\
+![](../assets/IAblog/image3.png){width="4.5in" height="3.5166666666666666in"}\
 Park, Seung-min, et al. \"A mountable toilet system for personalized
 health monitoring via the analysis of excreta.\" Nature Biomedical
 Engineering 4.6 (2020): 624-635.
@@ -290,7 +290,6 @@ This physical book will find a new home in the
 return to our physical offices in Brussels. But before this, it will do
 the tour in our company, next up our company's co-founders Pol
 Brouckaert, and then Bertrand Anckaert!
-
 
 
 
