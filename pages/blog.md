@@ -27,7 +27,8 @@ on LinkedIn:
 To my surprise, the original authors responded and this post got around
 10K views.
 
-![](../assets/IAblog/image2.png) Now two months later, I have finally
+![](../assets/IAblog/image2.png) 
+Now two months later, I have finally
 finished reading this book, with interleaved reading & writing of plenty
 academic research papers, which explains my tardiness.\
 \
