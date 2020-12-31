@@ -22,14 +22,12 @@ Two months ago I posted the [following
 message](https://www.linkedin.com/posts/jordy-van-landeghem-3b1166b3_since-half-of-my-phd-project-intelligent-activity-6727681423198818304-_cVI)
 on LinkedIn:
 
-![](../assets/IAblog/image1.png){width="3.9493055555555556in"
-height="5.3493055555555555in"}
+![](../assets/IAblog/image1.png)
 
 To my surprise, the original authors responded and this post got around
 10K views.
 
-![](../assets/IAblog/image2.png){width="2.6666666666666665in"
-height="2.0965277777777778in"}Now two months later, I have finally
+![](../assets/IAblog/image2.png) Now two months later, I have finally
 finished reading this book, with interleaved reading & writing of plenty
 academic research papers, which explains my tardiness.\
 \
@@ -216,13 +214,13 @@ remaining gaps or enrich extracted information (T&L). In this complete
 end-to-end process, exceptions need to be identified and routed towards
 human workflows for processing and approval (E).
 
-For example in industry, (2) **smart toilets** can help with daily
+For example in industry, (2) **smart toilets**[1] can help with daily
 health monitoring and even real-time drug dispensing (V, T&L, E). The
 below prototype by Stanford University medical school can give you an
 idea 😉
 
-![](../assets/IAblog/image3.png){width="4.5in" height="3.5166666666666666in"}\
-Park, Seung-min, et al. \"A mountable toilet system for personalized
+![](../assets/IAblog/image3.png)\
+[1]Park, Seung-min, et al. \"A mountable toilet system for personalized
 health monitoring via the analysis of excreta.\" Nature Biomedical
 Engineering 4.6 (2020): 624-635.
 
