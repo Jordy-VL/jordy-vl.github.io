@@ -12,6 +12,7 @@ Intelligent Automation
 ======================
 
 **31-12-2020**
+Alternate reading view (mobile friendly)
 
 Holding a promise
 -----------------
