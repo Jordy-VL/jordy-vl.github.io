@@ -60,8 +60,8 @@ Intelligence** (AI), the authors clearly and necessarily differentiate
 between the two.
 
 **Intelligent Automation** comprises a compelling class of technologies
-jointly capable of solving major world problems, [when combined with
-people & organizations:]{.underline}
+jointly capable of solving major world problems, <ins>when combined with
+people & organizations</ins>:
 
 -   A subset of AI for automation of knowledge work
 
@@ -197,9 +197,9 @@ promise of IA that was started in Part 1 with a look towards the future.
 ### Bonus: IA use cases library 
 
 This final book section provides a treasure trove of new and budding
-ideas for automation in different functions of [business]{.underline}:
+ideas for automation in different functions of <ins>business</ins>:
 finance, procurement, HR, legal, marketing, sales, ...; and
-[industry]{.underline}: medical and life sciences, banking, government
+<ins>industry</ins>: medical and life sciences, banking, government
 sector, telecommunications, insurance, .... For each use case, it
 explains the end-to-end process and which capabilities (from Part 2) are
 required to actionably automate it.
@@ -216,13 +216,13 @@ remaining gaps or enrich extracted information (T&L). In this complete
 end-to-end process, exceptions need to be identified and routed towards
 human workflows for processing and approval (E).
 
-For example in industry, (2) **smart toilets**[1] can help with daily
+For example in industry, (2) **smart toilets** [1] can help with daily
 health monitoring and even real-time drug dispensing (V, T&L, E). The
 below prototype by Stanford University medical school can give you an
 idea 😉
 
 ![](../assets/IAblog/image3.png)\
-[1]Park, Seung-min, et al. \"A mountable toilet system for personalized
+[1] Park, Seung-min, et al. \"A mountable toilet system for personalized
 health monitoring via the analysis of excreta.\" Nature Biomedical
 Engineering 4.6 (2020): 624-635.
 
@@ -234,7 +234,7 @@ Closing remarks
 INTELLIGENT AUTOMATION: *Learn how to harness Artificial Intelligence to
 boost business and make our world more human*
 
-The book has a really well-sculpted structure and really reads like a
+The book has a really well-sculpted structure and reads like a
 train! What I did notice during my reading is that it's best to read
 each chapter in its entirety, since picking up where you left off might
 be hard to orient yourself again. One exception is chapter 3, which has
