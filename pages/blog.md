@@ -191,7 +191,7 @@ people. This chapter reminds us that IA transformations should be
 people-centric, with mindfulness about how it will affect the future of
 work. What I am very happy about is that the book ends with this hopeful
 note, instead of lingering too much on the dangerous side of AI and IA,
-which too often gets picked up in the ../assets/IAblog. It nicely wraps up the
+which too often gets picked up in popular media. It nicely wraps up the
 promise of IA that was started in Part 1 with a look towards the future.
 
 ### Bonus: IA use cases library 
