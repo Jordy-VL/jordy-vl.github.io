@@ -14,7 +14,7 @@ I have a demonstrated track record  of industrial and academic prowess and artic
 
 My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
 
-<br>[curriculum vitae[CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+<br>[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 [Spotlight video of my Ph.D project ![Spotlight video of my Ph.D project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
 
