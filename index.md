@@ -5,14 +5,18 @@ description: Jordy Van Landeghem is a CS PhD student at Catholic University Leuv
 keywords: Predictive Uncertainty, Text Classification, Unsupervised Novelty Detection, Monte Carlo Dropout
 ---
 
-Hi, my name is Jordy Van Landeghem! I am a CS Ph.D student at the Catholic University in Leuven, Belgium. My research interests include uncertainty in Deep Learning, Document Classification, Named Entity Recognition.
+Hi, my name is Jordy Van Landeghem! 
+I am a Computer Science Ph.D. student at the Catholic University in Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+I have a demonstrated track record ([curriculum vitae[CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>) of industrial and academic prowess and articulate enthusiast of cutting-edge Language Technology:
+- Applied end-to-end AI engineering in the context of various application domains, e.g., finance, banking, insurance, legal. 
+- Conducting and publishing high-quality research into the fundamentals of Deep Learning (calibration, uncertainty quantification, out-of-distribution robustness) in order to obtain more reliable machine learning systems.
+
+My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
+
+
 
 [Spotlight video of my Ph.D project ![Spotlight video of my Ph.D project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
-
----
-<!---  https://marisacarlos.com/pages/create-simple-academic-website --->
 
 
 <div class="container">
@@ -21,7 +25,7 @@ Hi, my name is Jordy Van Landeghem! I am a CS Ph.D student at the Catholic Unive
     <div class="row-fluid">
         <div class="span5">
             Jordy Van Landeghem<br/>
-            Email: jordy@contract.fit<br/>
+            Email: <firstname>@contract.fit<br/>
         </div>
 
         <div class="span2">
@@ -35,7 +39,7 @@ Hi, my name is Jordy Van Landeghem! I am a CS Ph.D student at the Catholic Unive
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">Resumé</a></li>
+          <li><a href="https://twitter.com/JordyLandeghem">Twitter</a></li>
           <li><a href="https://github.com/jordy-vl">GitHub</a></li>
           <li><a href="https://www.linkedin.com/in/jordy-van-landeghem-3b1166b3/">LinkedIn</a></li>
       </ul>
