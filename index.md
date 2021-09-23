@@ -8,13 +8,13 @@ keywords: Predictive Uncertainty, Text Classification, Unsupervised Novelty Dete
 Hi, my name is Jordy Van Landeghem! 
 I am a Computer Science Ph.D. student at the Catholic University in Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
 
-I have a demonstrated track record ([curriculum vitae[CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>) of industrial and academic prowess and articulate enthusiast of cutting-edge Language Technology:
+I have a demonstrated track record  of industrial and academic prowess and articulate enthusiast of cutting-edge Language Technology:
 - Applied end-to-end AI engineering in the context of various application domains, e.g., finance, banking, insurance, legal. 
 - Conducting and publishing high-quality research into the fundamentals of Deep Learning (calibration, uncertainty quantification, out-of-distribution robustness) in order to obtain more reliable machine learning systems.
 
 My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
 
-
+<br>([curriculum vitae[CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{BASE_PATH}}/assets/CV.pdf)<br/>)
 
 [Spotlight video of my Ph.D project ![Spotlight video of my Ph.D project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
 
@@ -25,7 +25,7 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
     <div class="row-fluid">
         <div class="span5">
             Jordy Van Landeghem<br/>
-            Email: <firstname>@contract.fit<br/>
+            Email: firstname@contract.fit<br/>
         </div>
 
         <div class="span2">
