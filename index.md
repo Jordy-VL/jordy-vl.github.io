@@ -1,14 +1,14 @@
 ---
 layout: frontpage
 title: Jordy Van Landeghem
-description: Jordy Van Landeghem is a CS PhD student at Catholic University Leuven. 
+description: Jordy Van Landeghem is a CS PhD student at KU Leuven. 
 keywords: Predictive Uncertainty, Text Classification, Unsupervised Novelty Detection, Monte Carlo Dropout
 ---
 
 Hi, my name is Jordy Van Landeghem! 
-I am a Computer Science Ph.D. student at the Catholic University in Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
+I am a Computer Science Ph.D. researcher at the KU Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
 
-I have a demonstrated track record  of industrial and academic prowess and articulate enthusiast of cutting-edge Language Technology:
+With a demonstrated track record of industrial and academic prowess I am an articulate enthusiast of cutting-edge Language Technology:
 - Applied end-to-end AI engineering in the context of various application domains, e.g., finance, banking, insurance, legal. 
 - Conducting and publishing high-quality research into the fundamentals of Deep Learning (calibration, uncertainty quantification, out-of-distribution robustness) in order to obtain more reliable machine learning systems.
 
