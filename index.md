@@ -5,6 +5,8 @@ description: Jordy Van Landeghem is a CS PhD student at KU Leuven.
 keywords: Predictive Uncertainty, Text Classification, Unsupervised Novelty Detection, Monte Carlo Dropout
 ---
 
+## Whoami
+
 Hi, my name is Jordy Van Landeghem! 
 I am a Computer Science Ph.D. researcher at the KU Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
 
@@ -16,8 +18,17 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
 
 <br>[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
+## Intelligent Automation for AI-driven Document Understanding
+
+  <div class="phd-logo">
+    <img src="{{ BASE_PATH }}/assets/logo_small.png" alt="Logo">
+  </div>
+
+
 [Spotlight video of my Ph.D project ![Spotlight video of my Ph.D project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
 
+
+## Contact information
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
