@@ -20,7 +20,7 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
 
 ## Intelligent Automation for AI-driven Document Understanding
 
-  <div class="phd-logo">
+  <div class="phd-logo" align="center">
     <img src="{{ BASE_PATH }}/assets/logo_small.png" alt="Logo">
   </div>
 
