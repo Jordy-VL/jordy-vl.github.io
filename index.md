@@ -27,7 +27,9 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
 
 [Spotlight video of my Ph.D project ![Spotlight video of my Ph.D. project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
 
-If you'd like to help me push through my Ph.D., here is a link to buy me a coffee: (buymeacoffee.com/jordyvlan)!                
+If you'd like to help me push through my Ph.D., here is a link to buy me a coffee: 
+[<img src="{{ BASE_PATH }}/assets/snapshot-bmc-button.png">](buymeacoffee.com/jordyvlan)               
+
 
 ## Contact information
 
