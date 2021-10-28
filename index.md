@@ -8,7 +8,7 @@ keywords: Predictive Uncertainty, Text Classification, Unsupervised Novelty Dete
 ## Whoami
 
 Hi, my name is Jordy Van Landeghem! 
-I am a Computer Science Ph.D. researcher at the KU Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
+I am a Computer Science doctoral researcher at the KU Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
 
 With a demonstrated track record of industrial and academic prowess I am an articulate enthusiast of cutting-edge Language Technology:
 - Applied end-to-end AI engineering in the context of various application domains, e.g., finance, banking, insurance, legal. 
@@ -25,8 +25,9 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
   </div>
 
 
-[Spotlight video of my Ph.D project ![Spotlight video of my Ph.D project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
+[Spotlight video of my Ph.D project ![Spotlight video of my Ph.D. project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
 
+If you'd like to help me push through my Ph.D., here is a link to buy me a coffee: (buymeacoffee.com/jordyvlan)!                
 
 ## Contact information
 
