@@ -17,7 +17,7 @@ However, many prototypical tasks in Natural Language Processing (NLP) involve se
 We conduct benchmarking experiments with 1-D convolutional neural networks and pre-trained transformers on six real-world text classification datasets in which we empirically investigate why popular scalable uncertainty estimation strategies (Monte-Carlo Dropout, Deep Ensemble) and notable extensions (Heteroscedastic, Concrete Dropout) underestimate uncertainty. We motivate complementary uncertainty estimation benefits from combining posterior approximation procedures, linking it to recent research on how ensembles and variational Bayesian methods navigate the loss landscape.
 We find that our proposed method combination of Deep Ensemble with Concrete Dropout, by analysis of in-domain calibration, cross-domain classification, and novel class robustness, demonstrates superior performance, even at a smaller ensemble size. Our results corroborate the importance of fine-tuning dropout rate to the text classification task at hand, which individually and as an ensemble impacts model robustness. We observe in ablation that pretrained transformers severely underperform in novelty detection, limiting the applicability of transfer learning under the expectation of distribution shift from novel classes.*
 
-[[PDF](), [sample]({{ BASE_PATH}}/pages/working_papers/JMLR_background_BEFORE.pdf) [BibTeX]({{ BASE_PATH}}/pages/working_papers/VanLandeghem2021.bib), [Code](\url{https://github.com/Jordy-VL/uncertainty-bench})]
+[[PDF](), [sample]({{ BASE_PATH}}/pages/working_papers/JMLR_background_BEFORE.pdf) [BibTeX]({{ BASE_PATH}}/pages/working_papers/VanLandeghem2021.bib), [Code]({https://github.com/Jordy-VL/uncertainty-bench})]
 
 #### <u>Benchmarking Scalable Predictive Uncertainty in Text Classification.</u>
 **Jordy Van Landeghem. Open Source Software**
@@ -26,7 +26,7 @@ We find that our proposed method combination of Deep Ensemble with Concrete Drop
 Our survey on Bayesian Deep Learning methods and benchmarking on 6 different text classification datasets aims to help practicioners make this decision and have future researchers spurred to continue investigations into hybrid uncertainty methods.
 We open source our benchmark datasets, uncertainty method implementations, experimentation and evaluation setups (out-of-domain generalization, out-of-distribution robustness).*
 
-[[BibTeX]({{ BASE_PATH}}/pages/working_papers/VanLandeghem2021_uncertaintybench.bib), [Code](\url{https://github.com/Jordy-VL/uncertainty-bench})]
+[[BibTeX]({{ BASE_PATH}}/pages/working_papers/VanLandeghem2021_uncertaintybench.bib), [Code]({https://github.com/Jordy-VL/uncertainty-bench})]
 
 
 #### <u>Predictive Uncertainty for Probabilistic Novelty Detection in Text Classification.</u>
