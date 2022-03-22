@@ -1,14 +1,16 @@
 ---
 layout: frontpage
 title: Jordy Van Landeghem
-description: Jordy Van Landeghem is a CS PhD student at Catholic University Leuven. 
+description: Jordy Van Landeghem is a CS PhD student at KU Leuven. 
 keywords: Predictive Uncertainty, Text Classification, Unsupervised Novelty Detection, Monte Carlo Dropout
 ---
 
-Hi, my name is Jordy Van Landeghem! 
-I am a Computer Science Ph.D. student at the Catholic University in Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
+## Whoami
 
-I have a demonstrated track record  of industrial and academic prowess and articulate enthusiast of cutting-edge Language Technology:
+Hi, my name is Jordy Van Landeghem! 
+I am a Computer Science doctoral researcher at the KU Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
+
+With a demonstrated track record of industrial and academic prowess I am an articulate enthusiast of cutting-edge Language Technology:
 - Applied end-to-end AI engineering in the context of various application domains, e.g., finance, banking, insurance, legal. 
 - Conducting and publishing high-quality research into the fundamentals of Deep Learning (calibration, uncertainty quantification, out-of-distribution robustness) in order to obtain more reliable machine learning systems.
 
@@ -16,8 +18,20 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
 
 <br>[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
-[Spotlight video of my Ph.D project ![Spotlight video of my Ph.D project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
+## Intelligent Automation for AI-driven Document Understanding
 
+  <div class="phd-logo" align="center">
+    <img src="{{ BASE_PATH }}/assets/logo_small.png" alt="Logo">
+  </div>
+
+
+[Spotlight video of my Ph.D project ![Spotlight video of my Ph.D. project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
+
+If you'd like to help me push through my Ph.D., here is a link to buy me a coffee: 
+[<img src="{{ BASE_PATH }}/assets/snapshot-bmc-button.png">](https://buymeacoffee.com/jordyvlan)               
+
+
+## Contact information
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
