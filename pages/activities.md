@@ -1,8 +1,14 @@
 # Master thesis supervision
 
-Since in 2016 I did a wonderful master thesis internship at Oracle in Barcelona thanks to Jan Van Sas, I want to similarly give back to the community.  
+Since in 2016 I have had a wonderful master thesis internship at Oracle in Barcelona thanks to Jan Van Sas, I want to similarly give back to the community.
 From multiple universities in Belgium (and hopefully soon abroad) I have organised and helped guide each year multiple master thesis internships: 
 
+Ongoing:
+
+* Better Late than Never: Late Fusion for Document Classification - Yawen Zhao - MAI SLT - 2021-2022
+* Optimizing Transformers for Production - Omar Hamed - MAI SLT - 2021-2022
+
+Successfully completed:
 
 * From Classical Computer Vision To State Of The Art Methods For Document Analysis And Classification - Athar Saleem - MAI ECS - 2017-2018
 * Creating process standardization at Contract.fit to support sustainable growth - Michelle Vanassche - MAI SLT - 2018-2019
@@ -11,3 +17,4 @@ From multiple universities in Belgium (and hopefully soon abroad) I have organis
 * Machine-Learning-Based Candidate Selection for Information Extraction - Philemon Van Helden - VUB M-CS - 2019-2020
 * Prediction Calibration for Automated Document Categorization - Sudhanshu Gupta - MAI SLT - 2020-2021
 * Multi Modal Document Understanding using Graph Neural Networks - Shikhar Chauhan - MAI ECS - 2020-2021
+
