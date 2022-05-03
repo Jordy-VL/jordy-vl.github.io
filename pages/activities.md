@@ -1,3 +1,10 @@
+---
+layout: page
+title: Activities
+description: Whoever has professionally touched my network :) 
+---
+
+
 # Advisors, Mentors, Collaborators
 
 - I worked as an intern at Oracle in Barcelona with [Jan Van Sas](https://de.linkedin.com/in/janvansas), [Fabrice Nauze](https://nl.linkedin.com/in/fnauze) and [Sergiu Nisioi](https://scholar.google.ro/citations?user=0bqBJo8AAAAJ&hl=en)
