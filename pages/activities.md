@@ -11,12 +11,12 @@
 Since in 2016 I have had a wonderful master thesis internship at Oracle in Barcelona thanks to Jan Van Sas, I want to similarly give back to the community.
 From multiple universities in Belgium (and hopefully soon abroad) I have organised and helped guide each year multiple master thesis internships: 
 
-### Ongoing :hourglass::
+### Ongoing :hourglass: :
 
 * Better Late than Never: Late Fusion for Document Classification - Yawen Zhao - MAI SLT - 2021-2022
 * Optimizing Transformers for Production - Omar Hamed - MAI SLT - 2021-2022
 
-### Successfully completed :tada::
+### Successfully completed :tada: :
 
 * From Classical Computer Vision To State Of The Art Methods For Document Analysis And Classification - Athar Saleem - MAI ECS - 2017-2018
 * Creating process standardization at Contract.fit to support sustainable growth - Michelle Vanassche - MAI SLT - 2018-2019
