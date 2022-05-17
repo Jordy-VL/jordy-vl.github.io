@@ -33,3 +33,12 @@ From multiple universities in Belgium (and hopefully soon abroad) I have organis
 * Prediction Calibration for Automated Document Categorization - Sudhanshu Gupta - MAI SLT - 2020-2021
 * Multi Modal Document Understanding using Graph Neural Networks - Shikhar Chauhan - MAI ECS - 2020-2021
 
+
+## Grants
+
+Below is a list of grants & funding that I helped secure:
+
+* Company innovation support grant HBC.2021.0787 for *Leveraging document structure for improved document understanding* (Contract.fit)
+* Personal Baekeland grant HBC 2019.2604 for *Intelligent Automation for AI-driven Document Understanding*
+* Company innovation grant HBC.2019.2376 for *The development of a performant and user-friendly API self-service portal and word class classification modules* (Contract.fit)
+* Company innovation grant HBC.2017.0264 for *Self-Learning Platform for Simplifying Data-intensive Information Exchanges with Customers* (Contract.fit)
