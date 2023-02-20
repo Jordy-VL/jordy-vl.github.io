@@ -53,9 +53,9 @@ If you'd like to help me push through my Ph.D., here is a link to buy me a coffe
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://twitter.com/JordyLandeghem"><img src="{{ BASE_PATH }}/assets/twitter.png" alt="Logo twitter">Twitter</a></li>
-          <li><a href="https://github.com/jordy-vl"><img src="{{ BASE_PATH }}/assets/github.png" alt="Logo github">GitHub</a></li>
-          <li><a href="https://www.linkedin.com/in/jordy-van-landeghem-3b1166b3/"><img src="{{ BASE_PATH }}/assets/linkedin.png" alt="Logo linkedin">LinkedIn</a></li>
+          <li><a href="https://twitter.com/JordyLandeghem"><img src="{{ BASE_PATH }}/assets/twitter.png" width="80" alt="Logo twitter">Twitter</a></li>
+          <li><a href="https://github.com/jordy-vl"><img src="{{ BASE_PATH }}/assets/github.png" width="80" alt="Logo github">GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/jordy-van-landeghem-3b1166b3/"><img src="{{ BASE_PATH }}/assets/linkedin.png" width="80" alt="Logo linkedin">LinkedIn</a></li>
       </ul>
   </div>
 </div>
