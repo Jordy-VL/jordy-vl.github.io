@@ -11,7 +11,7 @@ Hi, my name is Jordy Van Landeghem!
 I am a Computer Science doctoral researcher at the KU Leuven (Belgium) and an AI Researcher at Contract.fit (Belgium).
 
 With a demonstrated track record of industrial and academic prowess I am an articulate enthusiast of cutting-edge Language Technology:
-- Applied end-to-end AI engineering in the context of various application domains, e.g., finance, banking, insurance, legal. 
+- Applied end-to-end AI engineering in the context of various Document AI application domains, e.g., finance, banking, insurance, legal. 
 - Conducting and publishing high-quality research into the fundamentals of Deep Learning (calibration, uncertainty quantification, out-of-distribution robustness) in order to obtain more reliable machine learning systems.
 
 My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
@@ -21,7 +21,7 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
 ## Intelligent Automation for AI-driven Document Understanding
 
   <div class="phd-logo" align="center">
-    <img src="{{ BASE_PATH }}/assets/logo_small.png" alt="Logo">
+    <img src="{{ BASE_PATH }}/assets/logo_small.png" alt="Logo" width="100">
   </div>
 
 
