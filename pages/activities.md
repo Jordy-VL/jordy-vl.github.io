@@ -20,8 +20,7 @@ From multiple universities in Belgium (and hopefully soon abroad) I have organis
 
 ### Ongoing :hourglass: :
 
-* Better Late than Never: Late Fusion for Document Classification - Yawen Zhao - MAI SLT - 2021-2022
-* Optimizing Transformers for Production - Omar Hamed - MAI SLT - 2021-2022
+* TA: Data Structures and Algorithms (2022-2023)
 
 ### Successfully completed :tada: :
 
@@ -32,6 +31,9 @@ From multiple universities in Belgium (and hopefully soon abroad) I have organis
 * Machine-Learning-Based Candidate Selection for Information Extraction - Philemon Van Helden - VUB M-CS - 2019-2020
 * Prediction Calibration for Automated Document Categorization - Sudhanshu Gupta - MAI SLT - 2020-2021
 * Multi Modal Document Understanding using Graph Neural Networks - Shikhar Chauhan - MAI ECS - 2020-2021
+* Optimizing ship detection efficiency in SAR images - Arthur Van Meerbeeck - KUL CS - 2021 - 2022
+* Better Late than Never: Late Fusion for Document Classification - Yawen Zhao - MAI SLT - 2021-2022
+* Optimizing Transformers for Production - Omar Hamed - MAI SLT - 2021-2022
 
 
 ## Grants

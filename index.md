@@ -28,7 +28,7 @@ My research interests include uncertainty in Deep Learning, Document AI, Structu
 [Spotlight video of my Ph.D project ![Spotlight video of my Ph.D. project](https://img.youtube.com/vi/HYd_afHn3DU/maxresdefault.jpg)](https://youtu.be/HYd_afHn3DU)
 
 If you'd like to help me push through my Ph.D., here is a link to buy me a coffee: 
-[<img src="{{ BASE_PATH }}/assets/snapshot-bmc-button.png">](https://buymeacoffee.com/jordyvlan)               
+[<img src="{{ BASE_PATH }}/assets/snapshot-bmc-button.png" width="150">](https://buymeacoffee.com/jordyvlan)               
 
 
 ## Contact information
@@ -45,7 +45,7 @@ If you'd like to help me push through my Ph.D., here is a link to buy me a coffe
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Jordy Van Landeghem" alt="Jordy Van Landeghem"/></a>
+                  title="Jordy Van Landeghem" alt="Jordy Van Landeghem" width="250"/></a>
         </div>
     </div>
 </div>
@@ -53,9 +53,9 @@ If you'd like to help me push through my Ph.D., here is a link to buy me a coffe
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://twitter.com/JordyLandeghem">Twitter</a></li>
-          <li><a href="https://github.com/jordy-vl">GitHub</a></li>
-          <li><a href="https://www.linkedin.com/in/jordy-van-landeghem-3b1166b3/">LinkedIn</a></li>
+          <li><a href="https://twitter.com/JordyLandeghem"><img src="{{ BASE_PATH }}/assets/twitter.png" alt="Logo twitter">Twitter</a></li>
+          <li><a href="https://github.com/jordy-vl"><img src="{{ BASE_PATH }}/assets/github.png" alt="Logo github">GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/jordy-van-landeghem-3b1166b3/"><img src="{{ BASE_PATH }}/assets/linkedin.png" alt="Logo linkedin">LinkedIn</a></li>
       </ul>
   </div>
 </div>

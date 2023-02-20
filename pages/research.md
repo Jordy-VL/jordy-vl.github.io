@@ -4,8 +4,23 @@ title: Research
 description: Jordy Van Landeghem's research
 ---
 
+For more detail, check my Google Scholar profile: 
+<a href="https://scholar.google.com/citations?user=Vsnb4d0AAAAJ&hl=en" align="left">
+    <img src="{{ BASE_PATH }}/assets/gscholar.png" alt="Logo" width="200">
+  </a>
+
+#### <u>ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE).</u>
+**<u>Jordy Van Landeghem </u> (1,2), Tomasz Stanisławek (3,4), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8), Sanket Biswat (5), Mickaël Coustaty (9). (ICDAR 2023)**
+( (1) KU Leuven, (2) Contract.fit, (3) Snowflake, (4) Warsaw University of Technology, (5) CVC, (6) Jagiellonian University, (7) Adam Mickiewicz University, (8) Instabase, (9) University of La Rochelle)
+
+*We propose a new dataset for benchmarking Document Understanding systems under real-world settings that have been previously overlooked. In contrast to previous datasets, we extensively source multi-domain, 
+multi-purpose, and multi-page documents of various types, origins, and dates. Importantly, we bridge the yet unaddressed gap between Document Layout Analysis and Question Answering paradigms by introducing complex layout-navigating questions and unique problems that often demand advanced information processing or multi-step reasoning. 
+Finally, the multi-phased evaluation protocol also assesses the few-shot capabilities of models by testing their generalization power to previously unseen questions and domains, a condition essential to business use cases prevailing in the field.*
+
+[[Competitiom](https://rrc.cvc.uab.es/?ch=23), [Code](https://github.com/duchallenge-team/dude/blob/main/README.md)]
+
 #### <u>Evaluating Strong Calibration for Probabilistic Structured Prediction.</u>
-**Jordy Van Landeghem, Matthew Blaschko, and Marie-Francine Moens. To be submitted, target TBD**
+**Jordy Van Landeghem, Matthew Blaschko, and Marie-Francine Moens. (Unpublished)**
 
 *While machine learning (ML) models are continually improving, for most tasks they fail to achieve perfect predictive performance. In order to be a valuable tool in decision-making under uncertainty, it stands to reason that we want some statistical guarantees on the quality of probability distribution outputs from probabilistic predictive models. Whereas research in statistics and ML has contributed different measures and tests for evaluating calibration, it has focused mainly on (i) classifiers predicting single discrete or real outputs, and (ii) miscalibration of only the most confident predictions (Niculescu-Mizil and Caruana, 2005; Naeini et al., 2015; Guo et al., 2017). 
 However, many prototypical tasks in Natural Language Processing (NLP) involve sequential, structured output spaces (part-of-speech tagging, named entity recognition, machine translation, image captioning). While there exist increasingly stronger measures of calibration, ranging from top-1 and top-k to class-wise calibration, their usage in Structured Prediction (SP) is limited. We hypothesize this is due to the complexity associated with evaluating calibration over extremely high-dimensional, combinatorial output spaces. We argue that we are still in a position of finding feasible ways to estimate and bound calibration error for structured output spaces by taking into account the weighted and smoothed influence from unseen structures. We develop and motivate a general mathematical framework grounded in probability theory for valuating probabilistic structured predictors.*
