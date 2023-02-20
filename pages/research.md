@@ -6,7 +6,7 @@ description: Jordy Van Landeghem's research
 
 For more detail, check my Google Scholar profile: 
 <a href="https://scholar.google.com/citations?user=Vsnb4d0AAAAJ&hl=en" align="left">
-    <img src="{{ BASE_PATH }}/assets/gscholar.png" alt="Logo" width="200">
+    <img src="{{ BASE_PATH }}/assets/gscholar.png" alt="Logo" width="50">
   </a>
 
 #### <u>ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE).</u>
