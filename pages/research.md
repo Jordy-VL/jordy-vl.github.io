@@ -10,15 +10,12 @@ For more detail, check my Google Scholar profile:
   </a>
 
 
-#### <u>ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE).</u>
-**<u>Jordy Van Landeghem </u> (1,2), Tomasz Stanisławek (3,4), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8), Sanket Biswat (5), Mickaël Coustaty (9). (ICDAR 2023)**
-( (1) KU Leuven, (2) Contract.fit, (3) Snowflake, (4) Warsaw University of Technology, (5) CVC, (6) Jagiellonian University, (7) Adam Mickiewicz University, (8) Instabase, (9) University of La Rochelle)
+#### <u>Meeting Expectations: CVC Seminar.</u>
+**<u>Jordy Van Landeghem </u> 
 
-*We propose a new dataset for benchmarking Document Understanding systems under real-world settings that have been previously overlooked. In contrast to previous datasets, we extensively source multi-domain, 
-multi-purpose, and multi-page documents of various types, origins, and dates. Importantly, we bridge the yet unaddressed gap between Document Layout Analysis and Question Answering paradigms by introducing complex layout-navigating questions and unique problems that often demand advanced information processing or multi-step reasoning. 
-Finally, the multi-phased evaluation protocol also assesses the few-shot capabilities of models by testing their generalization power to previously unseen questions and domains, a condition essential to business use cases prevailing in the field.*
+*Meeting Expectations CVC Seminar @30 June 2023*
 
-[[Slides]({{ BASE_PATH}}/assets/233006_CVC-Seminar-JVL.pdf), [Code](https://github.com/Jordy-VL/calibration-primer)]
+[[Link](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/), [Slides]({{ BASE_PATH}}/assets/233006_CVC-Seminar-JVL.pdf), [Code](https://github.com/Jordy-VL/calibration-primer)]
 
 #### <u>ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE).</u>
 **<u>Jordy Van Landeghem </u> (1,2), Tomasz Stanisławek (3,4), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8), Sanket Biswat (5), Mickaël Coustaty (9). (ICDAR 2023)**
