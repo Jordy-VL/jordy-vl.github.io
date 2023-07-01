@@ -15,7 +15,7 @@ For more detail, check my Google Scholar profile:
 
 *Meeting Expectations CVC Seminar @30 June 2023*
 
-[[Link](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/), [Slides]({{ BASE_PATH}}/assets/233006_CVC-Seminar-JVL.pdf), [Code](https://github.com/Jordy-VL/calibration-primer)]
+[[Link](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/), [Slides]({{ BASE_PATH}}/assets/230630_CVC-Seminar-JVL.pdf), [Code](https://github.com/Jordy-VL/calibration-primer)]
 
 #### <u>ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE).</u>
 **<u>Jordy Van Landeghem </u> (1,2), Tomasz Stanisławek (3,4), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8), Sanket Biswat (5), Mickaël Coustaty (9). (ICDAR 2023)**
