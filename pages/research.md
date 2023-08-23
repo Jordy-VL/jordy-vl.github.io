@@ -10,12 +10,15 @@ For more detail, check my Google Scholar profile:
   </a>
 
 
-#### <u>Meeting Expectations: CVC Seminar.</u>
-**<u>Jordy Van Landeghem </u> 
 
-*Meeting Expectations CVC Seminar @30 June 2023*
+#### <u>Document Understanding Dataset and Evaluation (DUDE).</u>
+**<u>Jordy Van Landeghem </u> (1,2), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8),, Mickaël Coustaty (9), Bertrand Anckaert (2), Ernest Valveny (5), Matthew B. Blaschko (1), Marie-Francine Moens (1), Tomasz Stanisławek (3,4). (ICCV 2023)**
+( (1) KU Leuven, (2) Contract.fit, (3) Snowflake, (4) Warsaw University of Technology, (5) CVC, (6) Jagiellonian University, (7) Adam Mickiewicz University, (8) Instabase, (9) University of La Rochelle)
 
-[[Link](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/), [Slides]({{ BASE_PATH}}/assets/230630_CVC-Seminar-JVL.pdf), [Code](https://github.com/Jordy-VL/calibration-primer)]
+*We call on the Document AI (DocAI) community to re-evaluate current methodologies and embrace the challenge of creating more practically-oriented benchmarks. Document Understanding Dataset and Evaluation (DUDE) seeks to remediate the halted research progress in understanding visually-rich documents (VRDs). We present a new dataset with novelties related to types of questions, answers, and document layouts based on multi-industry, multi-domain, and multi-page VRDs of various origins and dates. Moreover, we are pushing the boundaries of current methods by creating multi-task and multi-domain evaluation setups that more accurately simulate real-world situations where powerful generalization and adaptation under low-resource settings are desired. DUDE aims to set a new standard as a more practical, long-standing benchmark for the community, and we hope that it will lead to future extensions and contributions that address real-world challenges. Finally, our work illustrates the importance of finding more efficient ways to model language, images, and layout in DocAI.*
+
+[[PDF](https://arxiv.org/abs/2305.08455), [BibTeX](({{ BASE_PATH}}/assets/VanLandeghem2023a.bib)]
+
 
 #### <u>ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE).</u>
 **<u>Jordy Van Landeghem </u> (1,2), Tomasz Stanisławek (3,4), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8), Sanket Biswat (5), Mickaël Coustaty (9). (ICDAR 2023)**
@@ -25,7 +28,17 @@ For more detail, check my Google Scholar profile:
 multi-purpose, and multi-page documents of various types, origins, and dates. Importantly, we bridge the yet unaddressed gap between Document Layout Analysis and Question Answering paradigms by introducing complex layout-navigating questions and unique problems that often demand advanced information processing or multi-step reasoning. 
 Finally, the multi-phased evaluation protocol also assesses the few-shot capabilities of models by testing their generalization power to previously unseen questions and domains, a condition essential to business use cases prevailing in the field.*
 
-[[Competition](https://rrc.cvc.uab.es/?ch=23), [Code](https://github.com/duchallenge-team/dude/blob/main/README.md)]
+
+[[Competition](https://rrc.cvc.uab.es/?ch=23), [Code](https://github.com/duchallenge-team/dude/blob/main/README.md), [Slides](({{ BASE_PATH}}/assets/O11.4-slides.pdf), [Paper](https://doi.org/10.1007/978-3-031-41679-8_24)]
+
+#### <u>Meeting Expectations: CVC Seminar.</u>
+**<u>Jordy Van Landeghem </u> 
+
+*Meeting Expectations CVC Seminar @30 June 2023*
+
+[[Link](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/), [Slides]({{ BASE_PATH}}/assets/230630_CVC-Seminar-JVL.pdf), [Code](https://github.com/Jordy-VL/calibration-primer)]
+
+
 
 #### <u>Evaluating Strong Calibration for Probabilistic Structured Prediction.</u>
 **Jordy Van Landeghem, Matthew Blaschko, and Marie-Francine Moens. (Unpublished)**

@@ -4,6 +4,8 @@ title: News
 description: News-worthy updates
 ---
 
+23-08-2023 - Oral Presentation at [ICDAR 2023](https://icdar2023.org/program/competitions/)
+
 30-06-2023 - Invited Seminar at Computer Vision Center (CVC), Universitat Autònoma de Barcelona [Seminar](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/)
 
 01-05-2023 - Finalization of the [ICDAR2023 Document UnderstanDing of Everything (DUDE) competition](https://rrc.cvc.uab.es/?ch=23&com=introduction)
