@@ -17,7 +17,7 @@ For more detail, check my Google Scholar profile:
 
 *We call on the Document AI (DocAI) community to re-evaluate current methodologies and embrace the challenge of creating more practically-oriented benchmarks. Document Understanding Dataset and Evaluation (DUDE) seeks to remediate the halted research progress in understanding visually-rich documents (VRDs). We present a new dataset with novelties related to types of questions, answers, and document layouts based on multi-industry, multi-domain, and multi-page VRDs of various origins and dates. Moreover, we are pushing the boundaries of current methods by creating multi-task and multi-domain evaluation setups that more accurately simulate real-world situations where powerful generalization and adaptation under low-resource settings are desired. DUDE aims to set a new standard as a more practical, long-standing benchmark for the community, and we hope that it will lead to future extensions and contributions that address real-world challenges. Finally, our work illustrates the importance of finding more efficient ways to model language, images, and layout in DocAI.*
 
-[[PDF](https://arxiv.org/abs/2305.08455), [BibTeX](({{ BASE_PATH}}/assets/VanLandeghem2023a.bib)]
+[[PDF](https://arxiv.org/abs/2305.08455), [BibTeX]({{ BASE_PATH}}/assets/VanLandeghem2023a.bib)]
 
 
 #### <u>ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE).</u>
@@ -29,7 +29,7 @@ multi-purpose, and multi-page documents of various types, origins, and dates. Im
 Finally, the multi-phased evaluation protocol also assesses the few-shot capabilities of models by testing their generalization power to previously unseen questions and domains, a condition essential to business use cases prevailing in the field.*
 
 
-[[Competition](https://rrc.cvc.uab.es/?ch=23), [Code](https://github.com/duchallenge-team/dude/blob/main/README.md), [Slides](({{ BASE_PATH}}/assets/O11.4-slides.pdf), [Paper](https://doi.org/10.1007/978-3-031-41679-8_24)]
+[[Competition](https://rrc.cvc.uab.es/?ch=23), [Code](https://github.com/duchallenge-team/dude/blob/main/README.md), [Slides]({{ BASE_PATH}}/assets/O11.4-slides.pdf), [Paper](https://doi.org/10.1007/978-3-031-41679-8_24)]
 
 #### <u>Meeting Expectations: CVC Seminar.</u>
 **<u>Jordy Van Landeghem </u> 
