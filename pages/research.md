@@ -32,9 +32,9 @@ Finally, the multi-phased evaluation protocol also assesses the few-shot capabil
 [[Competition](https://rrc.cvc.uab.es/?ch=23), [Code](https://github.com/duchallenge-team/dude/blob/main/README.md), [Slides]({{ BASE_PATH}}/assets/O11.4-slides.pdf), [Paper](https://doi.org/10.1007/978-3-031-41679-8_24)]
 
 #### <u>Meeting Expectations: CVC Seminar.</u>
-**<u>Jordy Van Landeghem </u> 
+**<u>Jordy Van Landeghem </u> @30 June 2023
 
-*Meeting Expectations CVC Seminar @30 June 2023*
+*While machine learning models are continually improving, for most tasks they fail to achieve perfect predictive performance. In order to be a valuable tool in decision-making under uncertainty, it stands to reason that we want some statistical guarantees on the quality of probabilistic predictive models. Research into calibration regained popularity after repeated empirical observations of overconfidence in Deep Neural Networks. This renewed interest sparked initiative relative to calibration metrics & remediation of miscalibration. This talk will focus on how to make use and sense of probabilistic predictions, with a primer on confidence estimation, calibration, and failure prediction.*
 
 [[Link](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/), [Slides]({{ BASE_PATH}}/assets/230630_CVC-Seminar-JVL.pdf), [Code](https://github.com/Jordy-VL/calibration-primer)]
 
