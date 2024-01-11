@@ -10,6 +10,15 @@ For more detail, check my Google Scholar profile:
   </a>
 
 
+#### <u>Beyond Document Page Classification:Design, Datasets, Challenges </u>
+**<u>Jordy Van Landeghem </u> (1,2)  Sanket Biswas (3), Matthew B. Blaschko (1), Marie-Francine Moens (1). (WACV 2024)**
+( (1) KU Leuven, (2) Contract.fit, (3) CVC )
+https://github.com/Jordy-VL/jordy-vl.github.io/blob/master/assets/BPDC_WACV_1123.pdf
+
+*This paper highlights the need to bring document classification benchmarking closer to real-world applications, both in the nature of data tested (X: multi-channel, multipaged, multi-industry; Y : class distributions and label set variety) and in classification tasks considered (f: multipage document, page stream, and document bundle classification, ...). We identify the lack of public multi-page document classification datasets, formalize different classification tasks arising in application scenarios, and motivate the value of targeting efficient multi-page document representations. 
+An experimental study on proposed multi-page document classification datasets demonstrates that current benchmarks have become irrelevant and need to be updated to evaluate complete documents, as they naturally occur in practice. This reality check also calls for more mature evaluation methodologies, covering calibration evaluation, inference complexity (time-memory), and a range of realistic distribution shifts (e.g., born-digital vs. scanning noise, shifting page order). Our study ends on a hopeful note by recommending concrete avenues for future improvements.*
+
+[[Link](https://openaccess.thecvf.com/content/WACV2024/papers/Van_Landeghem_Beyond_Document_Page_Classification_Design_Datasets_and_Challenges_WACV_2024_paper.pdf), [Slides]({{ BASE_PATH}}/assets/BDPC_WACV_1123.pdf), [Code](https://[github.com/Jordy-VL/calibration-primer](https://huggingface.co/bdpc/src))]
 
 #### <u>Document Understanding Dataset and Evaluation (DUDE).</u>
 **<u>Jordy Van Landeghem </u> (1,2), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8),, Mickaël Coustaty (9), Bertrand Anckaert (2), Ernest Valveny (5), Matthew B. Blaschko (1), Marie-Francine Moens (1), Tomasz Stanisławek (3,4). (ICCV 2023)**
