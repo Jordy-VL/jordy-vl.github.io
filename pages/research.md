@@ -9,16 +9,25 @@ For more detail, check my Google Scholar profile:
     <img src="{{ BASE_PATH }}/assets/gscholar.png" alt="Logo" width="50">
   </a>
 
+### <u>Ph.D. Thesis: Intelligent Automation for AI-Driven Document Understanding </u>
+**<u>Jordy Van Landeghem </u>, Matthew B. Blaschko, Marie-Francine Moens.**
+**<u>Jury:</u> em. Prof. Dr. ir. Jean-Pierre Celis (chair), Prof. Dr. Marie-Francine Moens (supervisor), Prof. Dr. Matthew B. Blaschko (supervisor), Prof. Dr. ir. Johan Suykens, Prof. Dr. ir. Tinne Tuytelaars, Prof. Dr. Marcus Rohrbach (TU Darmstadt), Prof. Dr. Wenpeng Yin (Penn State University), Dr. Bertrand Anckaert (Contract.fit)**
+
+*In a world where we are drowning in paperwork, from important legal documents to simple shopping bills, computers are stepping up to the challenge of helping us manage this endless stream of visually-rich documents. While our brains are wired to process visual information at lightning speeds, navigate a document's layout, and retrieve content effectively, artificial neural network-based models are still struggling to achieve the same level of understanding of complex, multimodal documents.
+Despite the need for digitalization, organizations lag in adopting automated document processing solutions that can accurately handle these visually-rich documents. This gap in automation and accuracy poses a significant challenge for businesses and organizations that rely on efficient document processing to streamline their operations and improve productivity.*
+
+*A major contribution of this thesis is the development of scalable and reliable methods for predicting uncertainty in natural language processing, a relatively uncharted area of research. The new method addresses concerns about robustness and control, which are crucial for businesses and organizations relying on accurate document processing. Another achievement of this work is a proposal to completely overhaul document classification methodology, bridging the gap between document understanding research and real-world applications. Furthermore, we introduce a comprehensive and versatile benchmark, DUDE, challenging the state-of-the-art in document understanding and fostering improvements across calibrated selective generation, and multimodal long-context processing. In sum, we promote more reliable, efficient, and realistic document processing, paving the way for greater adoption of these technologies in real-world applications.*
+
+[[Manuscript]({{ BASE_PATH}}/assets/phdthesis/VanLandeghem_Jordy_PhD-thesis.pdf), [Slides-preliminary]({{ BASE_PATH}}/assets/phdthesis/VanLandeghemJordy_preliminary-defense.pdf), [BibTeX]({{ BASE_PATH}}/assets/phdthesis/VanLandeghem2024phdthesis.bib), [Slides-public]({{ BASE_PATH}}/assets/phdthesis/VanLandeghemJordy_public-defense.pdf),  [Code]({{ BASE_PATH}}/assets/phdthesis/thesis-code-and-data.md)]
 
 #### <u>Beyond Document Page Classification:Design, Datasets, Challenges </u>
 **<u>Jordy Van Landeghem </u> (1,2)  Sanket Biswas (3), Matthew B. Blaschko (1), Marie-Francine Moens (1). (WACV 2024)**
 ( (1) KU Leuven, (2) Contract.fit, (3) CVC )
-https://github.com/Jordy-VL/jordy-vl.github.io/blob/master/assets/BPDC_WACV_1123.pdf
 
 *This paper highlights the need to bring document classification benchmarking closer to real-world applications, both in the nature of data tested (X: multi-channel, multipaged, multi-industry; Y : class distributions and label set variety) and in classification tasks considered (f: multipage document, page stream, and document bundle classification, ...). We identify the lack of public multi-page document classification datasets, formalize different classification tasks arising in application scenarios, and motivate the value of targeting efficient multi-page document representations. 
 An experimental study on proposed multi-page document classification datasets demonstrates that current benchmarks have become irrelevant and need to be updated to evaluate complete documents, as they naturally occur in practice. This reality check also calls for more mature evaluation methodologies, covering calibration evaluation, inference complexity (time-memory), and a range of realistic distribution shifts (e.g., born-digital vs. scanning noise, shifting page order). Our study ends on a hopeful note by recommending concrete avenues for future improvements.*
 
-[[Link](https://openaccess.thecvf.com/content/WACV2024/papers/Van_Landeghem_Beyond_Document_Page_Classification_Design_Datasets_and_Challenges_WACV_2024_paper.pdf), [Slides]({{ BASE_PATH}}/assets/BDPC_WACV_1123.pdf), [Code](https://[github.com/Jordy-VL/calibration-primer](https://huggingface.co/bdpc/src))]
+[[Link](https://openaccess.thecvf.com/content/WACV2024/papers/Van_Landeghem_Beyond_Document_Page_Classification_Design_Datasets_and_Challenges_WACV_2024_paper.pdf), [Slides]({{ BASE_PATH}}/assets/BDPC_WACV_1123.pdf), [Code](https://huggingface.co/bdpc/src)]
 
 #### <u>Document Understanding Dataset and Evaluation (DUDE).</u>
 **<u>Jordy Van Landeghem </u> (1,2), Łukasz Borchmann (3), Rubèn Tito (5), Michał Pietruszka (3,6), Dawid Jurkiewicz (3,7), Rafał Powalski (8),, Mickaël Coustaty (9), Bertrand Anckaert (2), Ernest Valveny (5), Matthew B. Blaschko (1), Marie-Francine Moens (1), Tomasz Stanisławek (3,4). (ICCV 2023)**

@@ -4,6 +4,12 @@ title: News
 description: News-worthy updates
 ---
 
+23-04-2024 - Public Ph.D. defense @KU Leuven
+
+12-03-2024 - Successful Preliminary Ph.D. defense @KU Leuven
+
+05-01-2024 - Oral Presentation at [WACV 2024](https://wacv2024.thecvf.com/)
+
 23-08-2023 - Oral Presentation at [ICDAR 2023](https://icdar2023.org/program/competitions/)
 
 30-06-2023 - Invited Seminar at Computer Vision Center (CVC), Universitat Autònoma de Barcelona [Seminar](https://www.cvc.uab.es/blog/2023/06/30/jordy-van-landeghem-cvc-seminar/)

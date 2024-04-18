@@ -18,9 +18,6 @@ description: Whoever has professionally touched my network :)
 Since in 2016 I have had a wonderful master thesis internship at Oracle in Barcelona thanks to Jan Van Sas, I want to similarly give back to the community.
 From multiple universities in Belgium (and hopefully soon abroad) I have organised and helped guide each year multiple master thesis internships: 
 
-### Ongoing :hourglass: :
-
-* TA: Data Structures and Algorithms (2022-2023)
 
 ### Successfully completed :tada: :
 
@@ -34,6 +31,7 @@ From multiple universities in Belgium (and hopefully soon abroad) I have organis
 * Optimizing ship detection efficiency in SAR images - Arthur Van Meerbeeck - KUL CS - 2021 - 2022
 * Better Late than Never: Late Fusion for Document Classification - Yawen Zhao - MAI SLT - 2021-2022
 * Optimizing Transformers for Production - Omar Hamed - MAI SLT - 2021-2022
+* TA: Data Structures and Algorithms (2022-2023)
 
 
 ## Grants

@@ -292,11 +292,3 @@ This physical book will find a new home in the
 return to our physical offices in Brussels. But before this, it will do
 the tour in our company, next up our company's co-founders Pol
 Brouckaert, and then Bertrand Anckaert!
-
-
-
-# Uncertainty in Deep Learning
-**2021**
-[IN THE WORKS]
-<a href="uncertainty-blog.html">Uncertainty in Deep Learning: enter reverend Bayes</a>
-
